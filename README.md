@@ -6,7 +6,7 @@
 
 ## Proje Hakkında
 
-![Ürün Tanıtım Görseli](Images/Product.png)
+![Ürün Tanıtım Görseli](Images/Prouduct.png)
 
 **Proje Tanımı:** 
 
