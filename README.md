@@ -42,4 +42,5 @@ FitCheck, kullanıcıların fiziksel özelliklerine, hedeflerine ve yaşam tarzl
 Proje dokümantasyonuna aşağıdaki linklerden erişebilirsiniz:
 
 1. [Kadir Yüksel'in Gereksinimleri](Kadir-Yüksel/Kadir-Yüksel-Gereksinimler.md)
+2. [REST API Tasarımı](API-Tasarım.md)
 ---
